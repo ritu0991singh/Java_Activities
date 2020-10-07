@@ -8,7 +8,11 @@ public class Activity1_2 {
         int[] numArr = {10, 77, 10, 54, -11, 10};
         System.out.println("Original Array: " + Arrays.toString(numArr));
         System.out.println("Size of the Array: " + numArr.length);
-        
+       System.out.println("This change is done to lean forking");
+
+
+
+
         //Set constants
         int searchNum = 10;
         int fixedSum = 30;
